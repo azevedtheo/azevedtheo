@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Teodoro.
 
+From Recife, Brazil 🇧🇷
+
+# 🤖 | Skills
+
+- Problem solving
+- Mathematics for machine learning
+- Python and its libraries (e.g., NumPy and Pandas)
+
+# 📖 | Currently Learning
+
+- Java, with a focus on robotics
+  
 <!--
 **azevedtheo/azevedtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

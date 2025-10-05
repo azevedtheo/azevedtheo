@@ -1,28 +1,28 @@
-# Hi 👋, I'm Teodoro.
+<h1 align="center">Hey!</h1>
 
-From Recife, Brazil 🇧🇷
+<p align="center">I'm just passing by.</p>
 
-# 🤖 | Skills
+<h1 align="center">Tools 🛠️</h1>
 
-- Problem solving
-- Mathematics for machine learning
-- Python and its libraries (e.g., NumPy and Pandas)
+<p align="center">
+  <!-- GITHUB -->
+  <img src="https://pomf2.lain.la/f/t8ifz331.png" width="35">
+  <!-- GIT -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://pomf2.lain.la/f/vqc17a5j.png"></a>
+  <!-- VSCODE -->
+  <img src="https://pomf2.lain.la/f/mi971t4.png" width="35">
+  <!-- JAVA -->
+  <img src="https://pomf2.lain.la/f/s3ft9t6z.jpg" width="70">
 
-# 📖 | Currently Learning
+</p>
 
-- Java, with a focus on robotics
-  
-<!--
-**azevedtheo/azevedtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Currently Learning 📖</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- OPENCV -->
+  <img src="https://pomf2.lain.la/f/z7rg5cpn.png" width="30">
+  <!-- WPILib -->
+  <img src="https://pomf2.lain.la/f/6rn6nlnm.png" width="40">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

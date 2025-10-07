@@ -16,13 +16,4 @@
 
 </p>
 
-<h1 align="center">Currently Learning 📖</h1>
-
-<p align="center">
-  <!-- OPENCV -->
-  <img src="https://pomf2.lain.la/f/z7rg5cpn.png" width="30">
-  <!-- WPILib -->
-  <img src="https://pomf2.lain.la/f/6rn6nlnm.png" width="40">
-</p>
-
 

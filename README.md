@@ -1,4 +1,4 @@
-<h1 align="center">Hey!</h1>
+<h1 align="center">Hey! 👋</h1>
 
 <p align="center">I'm just passing by.</p>
 
@@ -6,14 +6,14 @@
 
 <p align="center">
   <!-- GITHUB -->
-  <img src="https://pomf2.lain.la/f/t8ifz331.png" width="35">
+  <a href="https://github.com/azevedtheo/" target="_blank"><img src="https://pomf2.lain.la/f/t8ifz331.png" width="35"></a>
   <!-- GIT -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://pomf2.lain.la/f/vqc17a5j.png"></a>
   <!-- VSCODE -->
-  <img src="https://pomf2.lain.la/f/mi971t4.png" width="35">
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://pomf2.lain.la/f/mi971t4.png" width="35"></a>
   <!-- JAVA -->
-  <img src="https://pomf2.lain.la/f/s3ft9t6z.jpg" width="70">
-
+  <a href="https://www.java.com/" target="_blank"><img src="https://pomf2.lain.la/f/s3ft9t6z.jpg" width="70"></a>
 </p>
 
+<h1 align="center"></h1>
 

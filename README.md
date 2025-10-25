@@ -2,7 +2,7 @@
 
 <p align="center">I'm just passing by.</p>
 
-<h1 align="center">Tools 🛠️</h1>
+<h1 align="center">Tools/Skills 🛠️</h1>
 
 <p align="center">
   <!-- GITHUB -->

@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋</h1>
 
-<h3 align="center">I'm Teodoro, a high schooler electronics enthusiast.</h3>
+<h3 align="center">I'm Teodoro, FRC team 9045 programmer and Automation & Industrial Technology student.</h3>
 
 <h1 align="center">Technologies I use (Robotics)💻</h1>
 
@@ -14,14 +14,4 @@
   <!-- JAVA -->
   <img src="https://pomf2.lain.la/f/s3ft9t6z.jpg" width="70">
 </p>
-
-<h1 align="center">My Interests ⚡</h1>
-
-<p align="center">
-  <img src="https://pomf2.lain.la/f/fy0ggnv.png" width="50">
-  <img src="https://pomf2.lain.la/f/c9d7f467.png" width="50">
-  <img src="https://pomf2.lain.la/f/7e84cmo4.png" width="35">
-</p>
-
-<h1 align="center"></h1>
 

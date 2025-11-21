@@ -1,17 +1,33 @@
-<h1 align="center">Hey! 👋</h1>
-
-<h3 align="center">I'm Teodoro, FRC team 9045 programmer and Automation & Industrial Technology student.</h3>
-
-<h1 align="center">Technologies I use (Robotics)💻</h1>
-
 <p align="center">
-  <!-- GITHUB -->
-  <img src="https://pomf2.lain.la/f/t8ifz331.png" width="35">
-  <!-- GIT -->
-  <img src="https://pomf2.lain.la/f/vqc17a5j.png">
-  <!-- VSCODE -->
-  <img src="https://pomf2.lain.la/f/mi971t4.png" width="35">
-  <!-- JAVA -->
-  <img src="https://pomf2.lain.la/f/s3ft9t6z.jpg" width="70">
+  <img src="https://pomf2.lain.la/f/gpbk8tqa.gif" width="750">
 </p>
 
+* * *
+
+<h3 align="center">ＲＯＢＯＴＩＣＳ</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<h3 align="center">ＤＡＴＡ ＡＮＡＬＹＳＩＳ ＆ ＮＯＴＥＳ</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+</p>
+
+<h3 align="center">ＣＯＮＴＡＣＴ ＭＥ</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>

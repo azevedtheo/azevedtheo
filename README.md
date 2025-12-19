@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://pomf2.lain.la/f/dmvjwski.gif" width="750">
-</p>
-
-* * *
-
 <h3 align="center">ＲＯＢＯＴＩＣＳ</h3>
 
 <p align="center">

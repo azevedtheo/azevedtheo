@@ -8,16 +8,16 @@ Network & Infrastructure enthusiast building practical systems around networking
 
 ```text
 ╔══════════════════════════════════════════════╗
-║              MOISES // TELEMETRY             ║
+║ MOISES // TELEMETRY                          ║
 ╠══════════════════════════════════════════════╣
 ║                                              ║
-║  REPOSITORIES                           4     ║
+║ REPOSITORIES                          4      ║
 ║                                              ║
-║  ───── LANGUAGE RANKING ─────                ║
-║  01  Java           ███████████████████████  92.0%     ║
-║  02  Python         ██             8.0%     ║
+║ ───── LANGUAGE RANKING ─────                 ║
+║ 01  Java        ██████████████████    89.1%  ║
+║ 02  Python      ██                    10.9%  ║
 ║                                              ║
-║  LAST SYNC: 2026-08-31T02:22:02.517104+00:00║
+║ LAST SYNC: 2026-08-31T02:30:10.972075+00:00  ║
 ╚══════════════════════════════════════════════╝
 ```
 

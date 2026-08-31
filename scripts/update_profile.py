@@ -101,40 +101,62 @@ def save_json(data: dict) -> None:
 def generate_telemetry(data: dict) -> str:
     repositories = data["repositories"]
     languages = data["languages"]
+    last_sync = data["last_sync"]
+
+    # Total width between the two outer borders.
+    WIDTH = 46
+    CONTENT_WIDTH = WIDTH - 2
+
+    def row(content: str = "") -> str:
+        # Guarantee that every row is exactly the same width.
+        content = content[:CONTENT_WIDTH]
+        return f"║ {content:<{CONTENT_WIDTH}} ║"
 
     lines = [
         "```text",
-        "╔══════════════════════════════════════════════╗",
-        "║              MOISES // TELEMETRY             ║",
-        "╠══════════════════════════════════════════════╣",
-        "║                                              ║",
-        f"║  REPOSITORIES                    {repositories:>8}     ║",
-        "║                                              ║",
-        "║  ───── LANGUAGE RANKING ─────                ║",
+        "╔" + "═" * WIDTH + "╗",
+        row("MOISES // TELEMETRY"),
+        "╠" + "═" * WIDTH + "╣",
+        row(),
+        row(f"REPOSITORIES{' ' * 25}{repositories:>2}"),
+        row(),
+        row("───── LANGUAGE RANKING ─────"),
     ]
 
     for index, (language, percentage) in enumerate(
         list(languages.items())[:5],
         start=1,
     ):
-        bar_length = int(percentage / 4)
+        # Fixed columns:
+        # 01 + language + bar + percentage
+        prefix = f"{index:02d}  "
+        language_text = f"{language:<12}"
+        percentage_text = f"{percentage:>5.1f}%"
+
+        # 20 characters reserved for the bar.
+        bar_length = round((percentage / 100) * 20)
         bar = "█" * bar_length
 
-        lines.append(
-            f"║  {index:02d}  {language:<14} "
-            f"{bar:<12} {percentage:>5.1f}%     ║"
+        content = (
+            f"{prefix}"
+            f"{language_text}"
+            f"{bar:<20}"
+            f" {percentage_text}"
         )
+
+        lines.append(row(content))
 
     lines.extend(
         [
-            "║                                              ║",
-            f"║  LAST SYNC: {data['last_sync']:<30}║",
-            "╚══════════════════════════════════════════════╝",
+            row(),
+            row(f"LAST SYNC: {last_sync}"),
+            "╚" + "═" * WIDTH + "╝",
             "```",
         ]
     )
 
     return "\n".join(lines)
+
 
 
 def update_readme(telemetry: str) -> None:

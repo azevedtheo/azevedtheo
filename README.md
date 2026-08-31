@@ -1,16 +1,41 @@
-## Hi there 👋
+# Moises Azevedo
 
-<!--
-**azevedtheo/azevedtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & Infrastructure enthusiast building practical systems around networking, Linux, virtualization, automation, and monitoring.
 
-Here are some ideas to get you started:
+## 📡 GitHub Telemetry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- TELEMETRY_START -->
+
+```text
+╔══════════════════════════════════════════════╗
+║              MOISES // TELEMETRY             ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  REPOSITORIES                           4     ║
+║                                              ║
+║  ───── LANGUAGE RANKING ─────                ║
+║  01  Java           ███████████████████████  92.0%     ║
+║  02  Python         ██             8.0%     ║
+║                                              ║
+║  LAST SYNC: 2026-08-31T02:22:02.517104+00:00║
+╚══════════════════════════════════════════════╝
+```
+
+<!-- TELEMETRY_END -->
+
+## 🚀 Projects
+
+- [Highly Available Campus Network Simulation](https://github.com/azevedtheo/highly-available-campus-network-simulation)
+- [Nginx Homelab Monitor](https://github.com/azevedtheo/nginx-homelab-monitor)
+
+## 🧠 Currently Exploring
+
+- Linux
+- Infrastructure Automation
+- Network Automation
+- Observability
+- Cloud Infrastructure
+
+## 🔗 Connect
+
+[GitHub](https://github.com/azevedtheo) · [LinkedIn](https://linkedin.com/in/moises-t-azevedo)

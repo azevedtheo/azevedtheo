@@ -1,9 +1,3 @@
-# Moises Azevedo
-
-Network & Infrastructure enthusiast building practical systems around networking, Linux, virtualization, automation, and monitoring.
-
-## 📡 GitHub Telemetry
-
 <!-- TELEMETRY_START -->
 
 <div align="center">
@@ -49,19 +43,6 @@ Network & Infrastructure enthusiast building practical systems around networking
 </div>
 
 <!-- TELEMETRY_END -->
-
-## 🚀 Projects
-
-- [Highly Available Campus Network Simulation](https://github.com/azevedtheo/highly-available-campus-network-simulation)
-- [Nginx Homelab Monitor](https://github.com/azevedtheo/nginx-homelab-monitor)
-
-## 🧠 Currently Exploring
-
-- Linux
-- Infrastructure Automation
-- Network Automation
-- Observability
-- Cloud Infrastructure
 
 ## 🔗 Connect
 

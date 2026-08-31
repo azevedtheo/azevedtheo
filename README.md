@@ -61,6 +61,12 @@ __      _____| | ___ ___  _ __ ___   ___
 <h1 align="center">🔗 Connect</h1>
 
 <p align="center">
-  <img src="https://thesvg.org/icons/github/dark.svg" width="50" height="50" alt="GitHub" style="margin-right: 20px;" />
-  <img src="https://thesvg.org/icons/linkedin/default.svg" width="50" height="50" alt="LinkedIn" />
+  <a href="github.com/azevedtheo">
+    <img src=
+    "https://thesvg.org/icons/github/dark.svg" width="50" height="50" alt="GitHub" style="margin-right: 20px;"/>
+    </a>
+  <a href="linkedin.com/in/moises-t-azevedo/">
+    <img src=
+    "https://thesvg.org/icons/linkedin/default.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
 </p>

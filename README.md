@@ -1,6 +1,20 @@
+<div align="center">
+
+<pre>
+              _                          
+__      _____| | ___ ___  _ __ ___   ___ 
+\ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+ \ V  V /  __/ | (_| (_) | | | | | |  __/
+  \_/\_/ \___|_|\___\___/|_| |_| |_|\___|
+
+</pre>
+
+</div>
+
 <!-- TELEMETRY_START -->
 
 <div align="center">
+
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -44,6 +58,9 @@
 
 <!-- TELEMETRY_END -->
 
-## 🔗 Connect
+<h1 align="center">🔗 Connect</h1>
 
-[GitHub](https://github.com/azevedtheo) · [LinkedIn](https://linkedin.com/in/moises-t-azevedo)
+<p align="center">
+  <img src="https://thesvg.org/icons/github/dark.svg" width="50" height="50" alt="GitHub" style="margin-right: 20px;" />
+  <img src="https://thesvg.org/icons/linkedin/default.svg" width="50" height="50" alt="LinkedIn" />
+</p>

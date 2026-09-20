@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**azevedtheo/azevedtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h4>user@host:~$ ./welcome.sh</h4>
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Network Technician | Python Developer | Linux
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- contact -->
+<p align="center">
+<a href="https://www.linkedin.com/in/azeved/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:azevedtheo@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<!-- profile view counter -->
+<p align="center"><a href="https://github.com/azevedtheo"><img alt="Profile View Count" src="https://komarev.com/ghpvc/?username=azevedtheo&style=flat-square"></a></p>
+
+
+
+
+
+
+
+
